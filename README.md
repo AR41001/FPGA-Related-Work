@@ -23,3 +23,5 @@
   -  Another file is created "BCD_Seg.sv" which has predefined values for the 7 segment which is called in the top module in order to make the design more hierarchichal
   -  The file "HexCounter" simply counts from 0-F in a cycle
   -  Finally, the top module "HexBCD" calls all these together so we can see the counter from 0-F on the right most 7 segment display of the FPGA
+  -  Pictures added in the folder
+

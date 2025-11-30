@@ -3,6 +3,7 @@
 - A portfolio of FPGA based projects demonstrating understanding of implementing different systems on an FPGA Board.
 - These projects are done on **Vivado 2018.2**
 - The Board used for this repository is Basys 3
+- The coding is done using SystemVerilog
 
 **Notes for Decade Counter on FPGA**
   -  Its simply a counter which counts from 0 to 9 and if it counts further, reset occurs and the counter starts from 0 again
